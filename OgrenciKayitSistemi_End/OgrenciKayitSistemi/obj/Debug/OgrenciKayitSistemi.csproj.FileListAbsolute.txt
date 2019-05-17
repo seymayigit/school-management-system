@@ -1,0 +1,68 @@
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csprojResolveAssemblyReference.cache
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.MDIParent.resources
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.Cache
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.NewRecord.resources
+c:\users\burhand\documents\visual studio 2015\Projects\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordList.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csprojResolveAssemblyReference.cache
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.MDIParent.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.NewRecord.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordList.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.Cache
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+C:\Users\haticey\Desktop\OgrenciKayitSistemi\OgrenciKayitSistemi\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordUpdate.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csprojResolveAssemblyReference.cache
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.MDIParent.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.NewRecord.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordList.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordUpdate.resources
+C:\Users\haticey\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.Cache
+G:\Yeni klasör\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+G:\Yeni klasör\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+G:\Yeni klasör\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.MDIParent.resources
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordList.resources
+C:\Users\Hatice Şeyma\Desktop\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.Cache
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.MDIParent.resources
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordList.resources
+C:\Users\Hatice Şeyma\Desktop\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.Cache
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe.config
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.exe
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.pdb
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.exe
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\bin\Debug\OgrenciKayitSistemi.pdb
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csprojResolveAssemblyReference.cache
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.MDIParent.resources
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.Properties.Resources.resources
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.RecordList.resources
+I:\aboutPinball\OgrenciKayitSistemi_End\OgrenciKayitSistemi\obj\Debug\OgrenciKayitSistemi.csproj.GenerateResource.Cache
